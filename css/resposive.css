@@ -1,0 +1,207 @@
+/* resposive */
+
+@media (max-width: 480px) {
+    .mask {
+        display: none;
+    }
+
+    .navbar {
+        gap: 0;
+        padding: 0 20px;
+    }
+
+    .navbar-right {
+        position: absolute;
+        top: 26px;
+        left: 183px;
+    }
+
+    .group-image {
+        display: none;
+    }
+
+    .nav-item-01 .fa {
+        margin: 13px 7px 0 5px;
+        color: black;
+    }
+
+    .search-bar input {
+        font-size: 8px;
+        padding: 0 6px;
+    }
+
+    .cla::-webkit-scrollbar {
+        display: none;
+    }
+
+    .cla {
+        overflow: auto;
+        overflow-x: scroll;
+        overflow-y: hidden;
+        margin: 0 0 0 24px;
+        height: 100px;
+        justify-content: unset;
+        gap: 32px;
+    }
+
+    .layer {
+        background: transparent linear-gradient(105deg, #90BC44 0%, #2A8E99 100%) 0% 0% no-repeat padding-box;
+        padding: 40px 10px 40px 10px;
+        text-align: center;
+        border-radius: 13px;
+    }
+
+    .single-listging-box {
+        width: 48%;
+    }
+
+    .category-topView .category-item {
+        height: 153px;
+    }
+
+    .single-listging-box-01,
+    .single-listging-box-02 {
+        width: 100%;
+    }
+
+    .view-all {
+        margin: 0 0 0 98px;
+    }
+
+    .view-all-01 {
+        margin-left: 75px;
+    }
+
+    .view-all-02 {
+        margin-left: 10px;
+    }
+
+    .lar {
+        font-size: 15px;
+    }
+
+    .life-01 {
+        color: white;
+        position: absolute;
+        top: 196px;
+        left: 40px;
+        right: 0;
+    }
+
+    .life {
+        color: white;
+        position: absolute;
+        left: 66px;
+        top: 53px;
+    }
+
+    .plan img {
+        width: 100%;
+        border-radius: 10px;
+        height: 450px;
+    }
+
+    .qr {
+        height: 100%;
+    }
+
+    .grop {
+        width: 33%;
+        margin: 15px 0 20px 127px;
+    }
+
+    .colum h2 {
+        padding: 0;
+    }
+
+    footer {
+        padding-left: 12px;
+    }
+
+    .last-logo {
+        margin: 0;
+        width: 97%;
+    }
+
+    .nav-item-015 {
+        width: 115px;
+    }
+
+    .cls {
+        margin-top: 30px;
+    }
+
+    .red p {
+        margin-top: 25px;
+        color: white;
+        font-size: 8px;
+        font-family: noto sans-serif;
+    }
+
+    .single-listging-box-03 {
+        width: 48%;
+    }
+
+    .popular {
+        margin: 30px 0 0 4px;
+    }
+
+    .clae {
+        margin: 0 0 34px 22px;
+    }
+
+    .fab-icone {
+        padding: 30px 0;
+        margin: 30px 0 0 0;
+        text-align: center;
+    }
+
+    .al h2 {
+        left: 156px;
+    }
+
+    .al p {
+        margin: 44px 0 0 125px;
+    }
+
+    .al b {
+        margin: 75px 0 0 135px;
+    }
+
+    .con {
+        margin: 134px 0 0 56px;
+    }
+    .profile-card
+    {
+        margin: 0 0 30px 56px;  
+    }
+    .las {
+        border-bottom: 1px solid #eaeaea;
+        margin: 0 0 10px 0;
+        display: flex;
+        width: 100%;
+        overflow: auto;
+        overflow-y: hidden;
+        flex-wrap: unset;
+    }
+    .acon
+    {
+        left: 19px;
+    }
+    .acon-01,
+    .acon-02,
+    .acon-05,
+    .acon-06
+    {
+        left: 308px;
+    }
+    .acon-07,
+    .acon-08
+    {
+        right: 23px;
+    }
+    .main-0123
+    {
+        padding: 0px 0px;
+    }
+}
